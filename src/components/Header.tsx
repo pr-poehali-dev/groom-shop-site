@@ -22,6 +22,12 @@ const Header = () => {
               Услуги
             </a>
             <a
+              href="#products"
+              className="text-gray-700 hover:text-primary transition-colors font-medium"
+            >
+              Магазин
+            </a>
+            <a
               href="#gallery"
               className="text-gray-700 hover:text-primary transition-colors font-medium"
             >
